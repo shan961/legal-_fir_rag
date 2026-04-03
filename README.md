@@ -25,23 +25,7 @@ The system retrieves relevant context using **Pinecone vector database** and gen
 - **PDF Processing:** PyPDF
 - **Language:** Python 3.10+
 - 
-legal_rag/
-│
-├── app/
-│ ├── api/
-│ │ └── routes.py
-│ ├── services/
-│ │ ├── ingestion.py
-│ │ ├── retriever.py
-│ │ ├── generator.py
-│ │ └── embedder.py
-│ ├── db/
-│ │ └── pinecone_client.py
-│
-├── main.py
-├── requirements.txt
-├── .env
-└── README.md
+
 ---
 
 ## 📁 Project Structure
